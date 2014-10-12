@@ -1,0 +1,6 @@
+INDEX VERSION 1.3+C:\Users\Zoyela\Uni\ESE\ese2014_warmup02\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3030779470.index
+1588640162.index
+1545618999.index
+398993341.index
+870560473.index
